@@ -2,14 +2,13 @@ import compensacao
 import compensacaoCERTO
 import figurinhas
 import figurinhasCERTO
-import piso
 import pisoCERTO
 def main():
     print('------------MENU----------')
     print('1 ---------- respostas Lucas')
     print('2 ---------- Gabarito')
     menu1 = int(input("Digite sua Opção: "))
-    menu2 = 0=
+    menu2 = 0
     if(menu1 == 1):
         print('------------EXERCÍCIO----------')
         print('1 ---------- Compensação')
